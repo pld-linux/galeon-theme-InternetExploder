@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://www.iceflow.net/themes/InternetExploder-theme.tar.gz
+# Source0-md5:	b387cf3a665182f285395164cff71a5b
 URL:		http://www.iceflow.net/themes/
 Requires:	galeon
 BuildArch:	noarch
