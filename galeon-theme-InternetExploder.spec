@@ -1,5 +1,5 @@
 Summary:	IE theme for Galeon
-Summary(pl):	Temat IE dla Galeona
+Summary(pl):	Motyw IE dla Galeona
 Name:		galeon-theme-InternetExploder
 Version:	0.1
 Release:	1
@@ -17,7 +17,7 @@ This is a button theme for the Galeon web browser. Cover all the bases
 of the different pixmap resources to make it look like IE.
 
 %description -l pl
-Temat nadaj±cy Galeonowi wygl±d Internet Explorera.
+Motyw nadaj±cy Galeonowi wygl±d Internet Explorera.
 
 %prep
 %setup  -q -n InternetExploder
