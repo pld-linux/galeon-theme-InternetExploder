@@ -12,7 +12,6 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_prefix		/usr/X11R6
-%define		_mandir		/usr/X11R6/man
 
 %description
 This is a button theme for the Galeon web browser. Cover all the bases
@@ -28,7 +27,7 @@ Temat nadaj±cy Galeonowi wygl±d Internet Explorera.
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_datadir}/galeon/themes/InternetExploder
 
-install *.* $RPM_BUILD_ROOT%{_datadir}/galeon/themes/InternetExploder
+install * $RPM_BUILD_ROOT%{_datadir}/galeon/themes/InternetExploder
 
 %clean
 rm -rf $RPM_BUILD_ROOT
