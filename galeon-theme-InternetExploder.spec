@@ -5,8 +5,6 @@ Version:	0.1
 Release:	1
 License:	GPL
 Group:		Themes
-Group(de):	Themen
-Group(pl):	Motywy
 Source0:	http://www.iceflow.net/themes/InternetExploder-theme.tar.gz
 URL:		http://www.iceflow.net/themes/
 Requires:	galeon
