@@ -2,7 +2,7 @@ Summary:	IE theme for Galeon
 Summary(pl):	Motyw IE dla Galeona
 Name:		galeon-theme-InternetExploder
 Version:	0.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Themes
 Source0:	http://www.iceflow.net/themes/InternetExploder-theme.tar.gz
