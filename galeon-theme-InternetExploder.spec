@@ -11,7 +11,6 @@ Requires:	galeon
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 This is a button theme for the Galeon web browser. Cover all the bases
