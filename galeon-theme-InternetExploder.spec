@@ -1,5 +1,5 @@
 Summary:	IE theme for Galeon
-Summary(pl.UTF-8):   Motyw IE dla Galeona
+Summary(pl.UTF-8):	Motyw IE dla Galeona
 Name:		galeon-theme-InternetExploder
 Version:	0.1
 Release:	2
